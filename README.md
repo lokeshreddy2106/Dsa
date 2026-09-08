@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/lokeshreddy2106/Dsa/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/lokeshreddy2106/Dsa/tree/master/0012-integer-to-roman) |
 ## String
 |  |
