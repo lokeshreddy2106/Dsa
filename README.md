@@ -26,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/lokeshreddy2106/Dsa/tree/master/0027-remove-element) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/lokeshreddy2106/Dsa/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
