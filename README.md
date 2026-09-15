@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/lokeshreddy2106/Dsa/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/lokeshreddy2106/Dsa/tree/master/0012-integer-to-roman) |
 | [0217-contains-duplicate](https://github.com/lokeshreddy2106/Dsa/tree/master/0217-contains-duplicate) |
+| [3731-find-missing-elements](https://github.com/lokeshreddy2106/Dsa/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/lokeshreddy2106/Dsa/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/lokeshreddy2106/Dsa/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/lokeshreddy2106/Dsa/tree/master/0485-max-consecutive-ones) |
+| [3731-find-missing-elements](https://github.com/lokeshreddy2106/Dsa/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,4 +45,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/lokeshreddy2106/Dsa/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/lokeshreddy2106/Dsa/tree/master/0414-third-maximum-number) |
+| [3731-find-missing-elements](https://github.com/lokeshreddy2106/Dsa/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
