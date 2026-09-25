@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/lokeshreddy2106/Dsa/tree/master/0012-integer-to-roman) |
+| [0058-length-of-last-word](https://github.com/lokeshreddy2106/Dsa/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/lokeshreddy2106/Dsa/tree/master/0344-reverse-string) |
 ## Array
 |  |
